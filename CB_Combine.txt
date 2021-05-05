@@ -1,0 +1,434 @@
+Rk,Year,Player,Pos,Age,AV,School,,Height,Wt,40YD,Vertical,BenchReps,Broad Jump,3Cone,Shuttle,Drafted (tm/rnd/yr)
+1,2021,Marco Wilson\WilsMa04,CB,22,,Florida,College Stats,5-11,191,4.37,43.5,26,136,6.80,4.13,
+2,2021,Trill Williams\WillTr07,CB,21,,Syracuse,College Stats,6-2,208,,36.0,20,123,,,
+3,2021,Rodarius Williams\WillRo07,CB,24,,Oklahoma St.,College Stats,5-11,189,4.50,36.5,14,123,6.98,4.15,
+4,2021,Avery Williams\WillAv02,CB,,,Boise St.,College Stats,5-8,187,4.43,33.5,19,121,6.88,4.00,
+5,2021,Rachad Wildgoose\WildRa00,CB,,,Wisconsin,College Stats,5-11,197,4.53,36.0,11,120,7.09,4.18,
+6,2021,Shaun Wade\WadeSh00,CB,22,,Ohio St.,College Stats,6-0,196,,,,,,,
+7,2021,Deommodore Lenoir\LenoDe00,CB,,,Oregon,College Stats,5-10,199,4.48,34.5,15,121,7.02,4.35,
+8,2021,Cameron Kinley\KinlCa00,CB,,,Navy,College Stats,6-0,197,4.52,33.0,10,116,7.06,4.25,
+9,2021,Darren Hall\HallDa03,CB,20,,San Diego St.,College Stats,5-11,188,4.47,38.5,16,132,7.07,4.28,
+10,2021,Mark Gilbert\GilbMa02,CB,23,,Duke,College Stats,6-0,186,4.47,36.0,13,130,7.05,4.37,
+11,2021,Camryn Bynum\BynuCa00,CB,22,,California,College Stats,6-0,196,4.58,34.0,,129,6.99,4.10,
+12,2021,Lorenzo Burns\BurnLo00,CB,,,Arizona,College Stats,5-10,183,4.56,33.5,14,123,7.55,4.51,
+13,2021,Tre Brown\BrowTr03,CB,,,Oklahoma,College Stats,5-9,185,4.42,38.0,13,123,7.11,4.27,
+14,2021,Shakur Brown\BrowSh00,CB,21,,Michigan St.,College Stats,5-9,185,4.61,35.5,17,116,7.08,4.23,
+15,2021,Dicaprio Bootle\BootDi00,CB,23,,Nebraska,College Stats,5-9,180,4.38,36.5,16,126,6.77,4.03,
+16,2021,Paulson Adebo\AdebPa00,CB,,,Stanford,College Stats,6-1,198,4.45,36.5,18,121,6.69,4.13,New Orleans Saints / 3rd / 76th pick / 2021
+17,2021,Thomas Graham Jr.,CB,,,Oregon,College Stats,5-10,192,4.49,34.5,13,121,7.08,4.21,
+18,2021,Corey Straughter,CB,,,La-Monroe,College Stats,5-10,184,4.62,35.0,11,117,7.37,4.58,
+19,2021,Nick McCloud,CB,,,Notre Dame,College Stats,6-0,193,4.45,34.0,12,,6.88,4.16,
+20,2021,Kary Vincent Jr.,CB,,,LSU,College Stats,5-9,185,4.36,35.5,8,117,,,
+21,2021,Mallory Claybourne,CB,,,Coastal Carolina,College Stats,5-9,191,4.57,33.0,12,116,7.37,4.32,
+22,2021,Kimere Brown,CB,,,Temple,College Stats,5-11,175,4.57,32.5,,124,7.37,4.32,
+23,2020,Kindle Vildor\VildKi00,CB,22,0,Georgia Southern,College Stats,5-10,191,4.44,39.5,22,133,7.14,4.28,Chicago Bears / 5th / 163rd pick / 2020
+24,2020,Stantley Thomas-Oliver\ThomSt00,CB,21,0,Florida International,College Stats,6-0,192,4.48,34.0,,127,,,Carolina Panthers / 7th / 221st pick / 2020
+25,2020,A.J. Terrell\TerrAJ00,CB,21,6,Clemson,College Stats,6-1,195,4.42,34.5,15,129,,,Atlanta Falcons / 1st / 16th pick / 2020
+26,2020,Josiah Scott\ScotJo00,CB,20,0,Michigan State,College Stats,5-9,185,4.42,,17,,,,Jacksonville Jaguars / 4th / 137th pick / 2020
+27,2020,Stanford Samuels\SamuSt00,CB,,,Florida State,College Stats,6-1,187,4.65,,,,,,
+28,2020,Reggie Robinson II\RobiRe00,CB,22,0,Tulsa,College Stats,6-1,205,4.44,36.0,22,132,7.09,4.18,Dallas Cowboys / 4th / 123rd pick / 2020
+29,2020,Amik Robertson\RobeAm00,CB,21,0,Louisiana Tech,College Stats,5-8,187,,,,,,,Las Vegas Raiders / 4th / 139th pick / 2020
+30,2020,John Reid\ReidJo00,CB,23,0,Penn State,College Stats,5-10,187,4.49,36.5,20,129,6.95,3.97,Houston Texans / 4th / 141st pick / 2020
+31,2020,Troy Pride\PridTr00,CB,22,4,Notre Dame,College Stats,5-11,193,4.40,35.5,13,119,6.94,4.26,Carolina Panthers / 4th / 113th pick / 2020
+32,2020,James Pierre\PierJa01,CB,23,0,Florida Atlantic,College Stats,6-0,183,4.59,33.5,,123,7.02,,
+33,2020,Jeff Okudah\OkudJe00,CB,21,2,Ohio State,College Stats,6-1,205,4.48,41.0,11,135,,,Detroit Lions / 1st / 3rd pick / 2020
+34,2020,Michael Ojemudia\OjemMi00,CB,22,6,Iowa,College Stats,6-1,200,4.45,36.0,,122,6.87,4.21,Denver Broncos / 3rd / 77th pick / 2020
+35,2020,BoPete Keyes\KeyeTh00,CB,22,0,Tulane,College Stats,6-1,202,,36.0,,126,,,Kansas City Chiefs / 7th / 237th pick / 2020
+36,2020,Jaylon Johnson\JohnJa13,CB,20,6,Utah,College Stats,6-0,193,4.50,36.5,15,124,7.01,4.13,Chicago Bears / 2nd / 50th pick / 2020
+37,2020,Lamar Jackson\JackLa01,CB,,,Nebraska,College Stats,6-2,208,4.58,36.5,10,122,,,
+38,2020,Dane Jackson\JackDa02,CB,23,0,Pittsburgh,College Stats,6-0,187,4.57,35.0,,122,7.07,4.27,Buffalo Bills / 7th / 239th pick / 2020
+39,2020,Noah Igbinoghene\IgbiNo00,CB,20,0,Auburn,College Stats,5-10,198,4.48,37.0,15,128,,,Miami Dolphins / 1st / 30th pick / 2020
+40,2020,Darnay Holmes\HolmDa01,CB,21,4,UCLA,College Stats,5-10,195,4.48,,12,,,,New York Giants / 4th / 110th pick / 2020
+41,2020,Lavert Hill\HillLa00,CB,,,Michigan,College Stats,5-10,190,,,21,,,,
+42,2020,C.J. Henderson\HendCJ00,CB,21,4,Florida,College Stats,6-1,204,4.39,37.5,20,127,,,Jacksonville Jaguars / 1st / 9th pick / 2020
+43,2020,Harrison Hand\HandHa00,CB,21,0,Temple,College Stats,5-11,197,4.52,41.0,14,133,7.15,4.27,Minnesota Vikings / 5th / 169th pick / 2020
+44,2020,Bryce Hall\HallBr02,CB,22,3,Virginia,College Stats,6-1,202,,,11,,,,New York Jets / 5th / 158th pick / 2020
+45,2020,Javelin Guidry\GuidJa00,CB,,,Utah,College Stats,5-9,191,4.29,,21,,,,
+46,2020,A.J. Green\GreeAJ01,CB,,,Oklahoma State,College Stats,6-1,202,4.62,,13,,,,
+47,2020,Jeff Gladney\GladJe00,CB,23,7,TCU,College Stats,5-10,191,4.48,37.5,17,124,7.26,,Minnesota Vikings / 1st / 31st pick / 2020
+48,2020,Kristian Fulton\FultKr00,CB,21,0,LSU,College Stats,6-0,197,4.46,35.5,,123,6.94,4.36,Tennessee Titans / 2nd / 61st pick / 2020
+49,2020,Trevon Diggs\DiggTr00,CB,21,5,Alabama,College Stats,6-1,205,,,,,,,Dallas Cowboys / 2nd / 51st pick / 2020
+50,2020,Javaris Davis\DaviJa09,CB,,,Auburn,College Stats,5-8,183,4.39,35.5,11,124,,,
+51,2020,Cameron Dantzler\DantCa00,CB,21,6,Mississippi State,College Stats,6-2,188,4.64,34.5,,,,,Minnesota Vikings / 3rd / 89th pick / 2020
+52,2020,Nevelle Clarke\ClarNe00,CB,,,UCF,College Stats,6-1,190,,35.0,10,126,6.88,4.31,
+53,2020,Myles Bryant\BryaMy00,CB,,,Washington,College Stats,5-8,183,4.62,31.5,,115,6.81,4.02,
+54,2020,Essang Bassey\BassEs01,CB,21,0,Wake Forest,College Stats,5-9,191,4.46,39.5,12,128,6.95,4.13,
+55,2020,Trajan Bandy\BandTr00,CB,,,Miami,College Stats,5-8,180,4.50,,10,,,,
+56,2020,Grayland Arnold\ArnoGr00,CB,,,Baylor,College Stats,5-9,186,4.59,33.0,12,120,7.01,4.30,
+57,2020,Damon Arnette\ArneDa00,CB,24,3,Ohio State,College Stats,6-0,195,4.56,,,,,,Las Vegas Raiders / 1st / 19th pick / 2020
+58,2019,Rock Ya-Sin\Ya-SRo00,CB,22,9,Temple,College Stats,6-0,192,4.51,39.5,18,120,7.31,4.31,Indianapolis Colts / 2nd / 34th pick / 2019
+59,2019,Joejuan Williams\WillJo13,CB,21,0,Vanderbilt,College Stats,6-4,211,4.64,,17,,,,New England Patriots / 2nd / 45th pick / 2019
+60,2019,Greedy Williams\WillGr00,CB,21,4,LSU,College Stats,6-2,185,4.37,,,,,,Cleveland Browns / 2nd / 46th pick / 2019
+61,2019,Ken Webster\WebsKe00,CB,22,2,Mississippi,College Stats,5-11,203,4.43,43.0,18,133,6.85,4.14,New England Patriots / 7th / 252nd pick / 2019
+62,2019,Saivion Smith\SmitSa01,CB,,,Alabama,College Stats,6-1,199,,33.0,11,121,7.09,4.37,
+63,2019,Kendall Sheffield\ShefKe00,CB,22,8,Ohio State,College Stats,5-11,193,,,,,,,Atlanta Falcons / 4th / 111th pick / 2019
+64,2019,Ryan Pulley\PullRy00,CB,23,,Arkansas,College Stats,5-11,209,4.61,31.0,11,111,,,
+65,2019,Jamal Peters\PeteJa00,CB,22,,Mississippi State,College Stats,6-2,218,4.63,,,,,,
+66,2019,Amani Oruwariye\OruwAm00,CB,23,5,Penn State,College Stats,6-2,205,4.47,36.5,17,120,6.82,4.16,Detroit Lions / 5th / 146th pick / 2019
+67,2019,Byron Murphy\MurpBy00,CB,21,11,Washington,College Stats,5-11,190,4.55,36.5,14,120,,,Arizona Cardinals / 2nd / 33rd pick / 2019
+68,2019,Trayvon Mullen\MullTr00,CB,21,11,Clemson,College Stats,6-1,199,4.46,34.5,,123,,,Oakland Raiders / 2nd / 40th pick / 2019
+69,2019,Jordan Miller\MillJo05,CB,22,0,Washington,College Stats,6-1,186,4.49,37.0,6,125,,,Atlanta Falcons / 5th / 172nd pick / 2019
+70,2019,Iman Lewis-Marshall\MarsIm00,CB,22,0,USC,College Stats,6-1,207,4.53,,16,,,,Baltimore Ravens / 4th / 127th pick / 2019
+71,2019,Julian Love\LoveJu00,CB,20,7,Notre Dame,College Stats,5-11,195,4.54,36.0,14,121,6.72,4.10,New York Giants / 4th / 108th pick / 2019
+72,2019,David Long\LongDa02,CB,21,0,Michigan,College Stats,5-11,196,4.45,39.5,15,120,6.45,3.97,Los Angeles Rams / 3rd / 79th pick / 2019
+73,2019,Justin Layne\LaynJu00,CB,21,0,Michigan State,College Stats,6-2,192,4.50,37.5,,134,6.90,4.09,Pittsburgh Steelers / 3rd / 83rd pick / 2019
+74,2019,Lonnie Johnson\JohnLo01,CB,23,6,Kentucky,College Stats,6-2,213,4.52,38.0,15,129,7.01,4.10,Houston Texans / 2nd / 54th pick / 2019
+75,2019,Isaiah Johnson\JohnIs02,CB,23,0,Houston,College Stats,6-2,208,4.40,36.5,,133,6.81,4.06,Oakland Raiders / 4th / 129th pick / 2019
+76,2019,Mike Jackson\JackMi01,CB,22,0,Miami (FL),College Stats,6-1,210,4.45,40.5,13,130,7.12,4.12,Dallas Cowboys / 5th / 158th pick / 2019
+77,2019,Alijah Holder\HoldAl01,CB,23,0,Stanford,College Stats,6-1,191,4.60,36.0,9,121,6.70,4.15,
+78,2019,Montre Hartage\HartMo01,CB,21,0,Northwestern,College Stats,5-11,190,4.68,34.5,9,123,6.95,4.08,
+79,2019,Mark Fields\FielMa01,CB,22,0,Clemson,College Stats,5-10,192,4.37,,18,,,,
+80,2019,Rashad Fenton\FentRa00,CB,22,0,South Carolina,College Stats,5-11,193,4.52,34.0,12,117,,4.25,Kansas City Chiefs / 6th / 201st pick / 2019
+81,2019,Jamel Dean\DeanJa00,CB,22,7,Auburn,College Stats,6-1,206,4.30,41.0,16,130,7.02,4.19,Tampa Bay Buccaneers / 3rd / 94th pick / 2019
+82,2019,Davante Davis\DaviDa02,CB,,,Texas,College Stats,6-2,202,4.57,37.0,14,125,6.76,4.15,
+83,2019,Xavier Crawford\CrawXa00,CB,23,0,Central Michigan,College Stats,5-11,187,4.48,37.5,11,,,,Houston Texans / 6th / 195th pick / 2019
+84,2019,Hamp Cheevers\CheeHa00,CB,,,Boston Col.,College Stats,5-9,169,4.52,39.0,8,122,6.96,4.25,
+85,2019,Sean Bunting\BuntSe00,CB,21,11,Central Michigan,College Stats,6-0,195,4.42,41.5,14,126,,,Tampa Bay Buccaneers / 2nd / 39th pick / 2019
+86,2019,Blace Brown\BrowBl01,CB,,,Troy,College Stats,6-0,194,4.75,,14,126,7.33,4.22,
+87,2019,Kris Boyd\BoydKr00,CB,22,0,Texas,College Stats,5-11,201,4.45,36.5,19,127,6.94,4.08,Minnesota Vikings / 7th / 217th pick / 2019
+88,2019,Corey Ballentine\BallCo00,CB,22,0,Washburn,,5-11,196,4.47,39.5,15,135,6.82,4.14,New York Giants / 6th / 180th pick / 2019
+89,2019,Deandre Baker\BakeDe00,CB,21,6,Georgia,College Stats,5-11,193,4.52,,14,118,,,New York Giants / 1st / 30th pick / 2019
+90,2019,Derrick Baity\BaitDe00,CB,,,Kentucky,College Stats,6-2,197,,38.5,10,127,7.06,4.31,
+91,2019,Blessuan Austin\AustBl00,CB,22,6,Rutgers,College Stats,6-1,198,,,15,,,,New York Jets / 6th / 196th pick / 2019
+92,2019,Derrek Thomas,CB,,,Baylor,College Stats,6-3,189,4.44,39.5,8,131,,,
+93,2019,Jordan Brown,CB,,,South Dakota State,,6-0,201,4.51,39.5,13,128,,,
+94,2018,Isaac Yiadom\YiadIs00,CB,22,9,Boston Col.,College Stats,6-1,190,4.52,,8,120,,4.18,Denver Broncos / 3rd / 99th pick / 2018
+95,2018,Denzel Ward\WardDe02,CB,20,20,Ohio State,College Stats,5-10,191,4.32,39.0,16,136,,,Cleveland Browns / 1st / 4th pick / 2018
+96,2018,Levi Wallace\WallLe00,CB,22,18,Alabama,College Stats,6-0,183,4.63,33.0,,,,,
+97,2018,Kevin Toliver\ToliKe00,CB,22,0,LSU,,6-3,204,,33.0,10,120,,,
+98,2018,Jordan Thomas\ThomJo05,CB,21,2,Oklahoma,College Stats,6-0,186,4.64,38.0,4,124,6.28,3.94,Houston Texans / 6th / 211th pick / 2018
+99,2018,Chandon Sullivan\SullCh00,CB,21,5,Georgia State,College Stats,5-11,195,4.60,40.5,15,134,,4.36,
+100,2018,Greg Stroman\StroGr00,CB,21,3,Virginia Tech,College Stats,6-0,180,4.48,33.5,16,113,,4.45,Washington Redskins / 7th / 241st pick / 2018
+101,2018,M.J. Stewart\StewM.00,CB,22,3,North Carolina,College Stats,5-11,200,4.54,35.0,18,118,6.90,4.28,Tampa Bay Buccaneers / 2nd / 53rd pick / 2018
+102,2018,D.J. Reed\ReedD.00,CB,21,4,Kansas State,College Stats,5-9,188,4.51,36.5,11,,,,San Francisco 49ers / 5th / 142nd pick / 2018
+103,2018,Darius Phillips\PhilDa02,CB,22,4,West. Michigan,College Stats,5-10,190,4.54,,,,,,Cincinnati Bengals / 5th / 170th pick / 2018
+104,2018,Isaiah Oliver\OlivIs00,CB,21,11,Colorado,College Stats,6-1,190,4.50,,,,,,Atlanta Falcons / 2nd / 58th pick / 2018
+105,2018,Parry Nickerson\NickPa00,CB,23,0,Tulane,College Stats,6-0,180,4.32,,15,,,,New York Jets / 6th / 179th pick / 2018
+106,2018,Nick Nelson\NelsNi00,CB,21,0,Wisconsin,College Stats,5-11,208,4.52,,17,123,,,Oakland Raiders / 4th / 110th pick / 2018
+107,2018,Kamrin Moore\MoorKa01,CB,21,0,Boston Col.,College Stats,5-11,200,,,,,,,New Orleans Saints / 6th / 189th pick / 2018
+108,2018,Tarvarus McFadden\McFaTa00,CB,21,,Florida State,College Stats,6-2,198,4.67,38.5,,121,,,
+109,2018,Avonte Maddox\MaddAv00,CB,21,13,Pittsburgh,College Stats,5-9,180,4.39,37.0,13,125,6.51,4.00,Philadelphia Eagles / 4th / 125th pick / 2018
+110,2018,Chris Jones\JoneCh06,CB,22,0,Nebraska,College Stats,6-0,195,4.57,,14,,,,
+111,2018,Taron Johnson\JohnTa01,CB,21,13,Weber State,,6-0,180,4.50,33.0,17,118,7.03,4.28,Buffalo Bills / 4th / 121st pick / 2018
+112,2018,Danny Johnson\JohnDa09,CB,22,0,Southern,,5-10,185,4.44,35.0,15,123,,,
+113,2018,Josh Jackson\JackJo01,CB,21,7,Iowa,College Stats,6-1,192,4.56,38.0,18,123,6.86,4.03,Green Bay Packers / 2nd / 45th pick / 2018
+114,2018,J.C. Jackson\JackJ.00,CB,22,17,Maryland,College Stats,5-11,193,4.46,35.5,14,120,,,
+115,2018,Donte Jackson\JackDo02,CB,22,19,LSU,College Stats,5-11,175,4.32,,7,124,,,Carolina Panthers / 2nd / 55th pick / 2018
+116,2018,Mike Hughes\HughMi00,CB,21,0,Central Florida,College Stats,5-11,191,4.53,35.5,20,127,6.70,4.13,Minnesota Vikings / 1st / 30th pick / 2018
+117,2018,Holton Hill\HillHo00,CB,20,0,Texas,College Stats,6-3,200,4.49,31.0,14,120,6.83,4.15,
+118,2018,Davontae Harris\HarrDa05,CB,23,3,Illinois State,,6-0,200,4.43,32.5,22,123,6.96,4.40,Cincinnati Bengals / 5th / 151st pick / 2018
+119,2018,Grant Haley\HaleGr00,CB,22,3,Penn State,College Stats,5-9,190,4.44,34.0,15,119,6.51,3.94,
+120,2018,Rashaan Gaulden\GaulRa00,CB,23,0,Tennessee,College Stats,6-1,193,4.61,30.0,8,119,7.16,4.33,Carolina Panthers / 3rd / 85th pick / 2018
+121,2018,Brandon Facyson\FacyBr00,CB,23,0,Virginia Tech,College Stats,6-2,197,4.53,,16,,,,
+122,2018,Dee Delaney\DelaDe00,CB,23,0,Miami (FL),College Stats,6-1,194,4.46,32.5,13,120,6.95,4.25,
+123,2018,Duke Dawson\DawsDu00,CB,22,0,Florida,College Stats,5-10,208,4.46,,15,,,,New England Patriots / 2nd / 56th pick / 2018
+124,2018,Carlton Davis\DaviCa02,CB,21,17,Auburn,College Stats,6-1,203,4.53,34.0,16,124,,,Tampa Bay Buccaneers / 2nd / 63rd pick / 2018
+125,2018,Tony Brown\BrowTo01,CB,22,0,Alabama,College Stats,6-0,198,4.35,31.5,14,126,6.78,4.11,
+126,2018,Anthony Averett\AverAn00,CB,23,0,Alabama,College Stats,6-0,185,4.36,31.5,13,119,6.93,4.40,Baltimore Ravens / 4th / 118th pick / 2018
+127,2018,Jaire Alexander\AlexJa00,CB,21,26,Louisville,College Stats,5-11,192,4.38,35.0,14,127,6.71,3.98,Green Bay Packers / 1st / 18th pick / 2018
+128,2018,Dmontre Wade,CB,,,Murray State,,6-0,200,4.57,35.5,15,120,,4.40,
+129,2018,Henre Toliver,CB,,,Arkansas,,6-1,185,4.63,32.5,6,117,7.01,4.15,
+130,2018,Jamarcus King,CB,,,South Carolina,College Stats,6-1,186,4.70,,,,,,
+131,2018,Michael Joseph,CB,,,Dubuque,,6-1,181,,34.0,17,,6.89,4.20,
+132,2018,Rashard Fant,CB,,,Indiana,College Stats,5-10,175,,,,,,,
+133,2018,Andre Chachere,CB,,,San Jose State,College Stats,6-0,200,4.49,38.0,13,123,6.78,4.07,
+134,2018,Chris Campbell,CB,,,Penn State,,6-1,194,,,14,,,,
+135,2017,Ahkello Witherspoon\WithAh00,CB,21,14,Colorado,College Stats,6-3,198,4.45,40.5,,127,6.93,4.13,San Francisco 49ers / 3rd / 66th pick / 2017
+136,2017,Quincy Wilson\WilsQu01,CB,20,3,Florida,College Stats,6-1,211,4.54,32.0,14,118,6.86,4.02,Indianapolis Colts / 2nd / 46th pick / 2017
+137,2017,Howard Wilson\WilsHo00,CB,21,,Houston,College Stats,6-1,184,4.57,33.5,,119,6.68,3.94,Cleveland Browns / 4th / 126th pick / 2017
+138,2017,TreDavious White\WhitTr01,CB,22,55,LSU,College Stats,5-11,192,4.47,32.0,16,119,6.90,4.32,Buffalo Bills / 1st / 27th pick / 2017
+139,2017,Marquez White\WhitMa03,CB,22,,Florida State,College Stats,6-0,194,4.59,36.0,,123,,,Dallas Cowboys / 6th / 216th pick / 2017
+140,2017,Jack Tocho\TochJa00,CB,21,,North Carolina State,College Stats,6-0,202,4.54,35.0,21,125,,,Minnesota Vikings / 7th / 245th pick / 2017
+141,2017,Cordrea Tankersley\TankCo00,CB,23,5,Clemson,College Stats,6-1,199,4.40,29.5,13,121,7.00,4.32,Miami Dolphins / 3rd / 97th pick / 2017
+142,2017,Teez Tabor\TaboTe00,CB,21,0,Florida,College Stats,6-0,199,4.62,31.0,9,120,,,Detroit Lions / 2nd / 53rd pick / 2017
+143,2017,Cameron Sutton\SuttCa00,CB,22,4,Tennessee,College Stats,5-11,188,4.52,34.0,11,120,6.81,,Pittsburgh Steelers / 3rd / 94th pick / 2017
+144,2017,Channing Stribling\StriCh00,CB,22,,Michigan,College Stats,6-1,188,4.60,31.5,5,114,6.94,4.56,
+145,2017,Sojourn Shelton\ShelSo00,CB,22,,Wisconsin,College Stats,5-9,177,4.51,35.0,10,120,6.92,4.02,
+146,2017,Jalen Myrick\MyriJa00,CB,22,0,Minnesota,College Stats,5-10,200,4.28,37.5,13,124,7.06,4.22,Jacksonville Jaguars / 7th / 222nd pick / 2017
+147,2017,Fabian Moreau\MoreFa00,CB,22,14,UCLA,College Stats,6-0,206,4.35,38.0,,136,6.94,4.12,Washington Redskins / 3rd / 81st pick / 2017
+148,2017,Arthur Maulet\MaulAr00,CB,23,7,Memphis,College Stats,5-10,189,4.62,34.5,18,120,,,
+149,2017,William Likely\LikeWi00,CB,,,Maryland,College Stats,5-7,180,,,15,,,,
+150,2017,Jourdan Lewis\LewiJo01,CB,21,14,Michigan,College Stats,5-10,188,4.54,34.5,15,121,,,Dallas Cowboys / 3rd / 92nd pick / 2017
+151,2017,Marshon Lattimore\LattMa01,CB,20,37,Ohio State,College Stats,6-0,193,4.36,38.5,,132,,,New Orleans Saints / 1st / 11th pick / 2017
+152,2017,Ashton Lampkin\LampAs00,CB,23,,Oklahoma State,College Stats,6-0,189,4.52,34.5,19,120,,,
+153,2017,Kevin King\KingKe01,CB,21,16,Washington,College Stats,6-3,200,4.43,39.5,11,,6.56,3.89,Green Bay Packers / 2nd / 33rd pick / 2017
+154,2017,Damontae Kazee\KazeDa00,CB,23,15,San Diego State,College Stats,5-10,184,4.54,34.0,11,124,,,Atlanta Falcons / 5th / 149th pick / 2017
+155,2017,Sidney Jones\JoneSi00,CB,20,4,Washington,College Stats,6-0,186,4.47,33.5,,123,7.02,4.28,Philadelphia Eagles / 2nd / 43rd pick / 2017
+156,2017,Adoree Jackson\JackAd00,CB,21,19,USC,College Stats,5-10,186,4.42,36.0,,122,,,Tennessee Titans / 1st / 18th pick / 2017
+157,2017,Marlon Humphrey\HumpMa00,CB,20,36,Alabama,College Stats,6-0,197,4.41,,10,125,6.75,,Baltimore Ravens / 1st / 16th pick / 2017
+158,2017,Nate Hairston\HairNa00,CB,22,6,Temple,College Stats,6-0,196,4.52,35.5,14,118,,,Indianapolis Colts / 5th / 158th pick / 2017
+159,2017,Shaquill Griffin\GrifSh00,CB,21,29,Central Florida,College Stats,6-0,194,4.38,38.5,17,132,6.87,4.14,Seattle Seahawks / 3rd / 90th pick / 2017
+160,2017,Corn Elder\EldeCo00,CB,22,0,Miami (FL),College Stats,5-10,183,4.55,,,,,,Carolina Panthers / 5th / 152nd pick / 2017
+161,2017,Rasul Douglas\DougRa00,CB,22,19,West Virginia,College Stats,6-2,209,4.59,33.5,16,120,6.97,4.26,Philadelphia Eagles / 3rd / 99th pick / 2017
+162,2017,Treston DeCoud\DecoTr00,CB,23,0,Oregon State,College Stats,6-2,206,4.62,31.0,11,116,,,Houston Texans / 5th / 169th pick / 2017
+163,2017,Gareon Conley\ConlGa00,CB,21,11,Ohio State,College Stats,6-0,195,4.44,37.0,11,129,6.68,4.18,Oakland Raiders / 1st / 24th pick / 2017
+164,2017,Jeremy Clark\ClarJe04,CB,22,0,Michigan,College Stats,6-3,220,,,20,,,,New York Jets / 6th / 197th pick / 2017
+165,2017,Chidobe Awuzie\AwuzCh00,CB,21,20,Colorado,College Stats,6-0,202,4.43,34.5,16,132,6.81,4.14,Dallas Cowboys / 2nd / 60th pick / 2017
+166,2017,Brian Allen\AlleBr01,CB,23,0,Utah,College Stats,6-3,215,4.48,34.5,15,117,6.64,4.34,Pittsburgh Steelers / 5th / 173rd pick / 2017
+167,2017,Ezra Robinson,CB,,,Tennessee State,,5-11,189,4.47,34.0,13,130,,,
+168,2016,Tavon Young\YounTa01,CB,21,7,Temple,College Stats,5-9,183,4.46,34.5,9,118,6.80,3.93,Baltimore Ravens / 4th / 104th pick / 2016
+169,2016,Daryl Worley\WorlDa00,CB,21,23,West Virginia,College Stats,6-1,204,4.64,35.5,14,123,6.98,4.15,Carolina Panthers / 3rd / 77th pick / 2016
+170,2016,Brandon Williams\WillBr07,CB,23,0,Texas A&M,College Stats,5-11,197,4.37,30.5,18,118,6.85,4.19,Arizona Cardinals / 3rd / 92nd pick / 2016
+171,2016,D.J. White\WhitD.00,CB,22,0,Georgia Tech,College Stats,5-11,193,4.49,33.0,17,132,7.18,4.33,Kansas City Chiefs / 6th / 178th pick / 2016
+172,2016,Ryan Smith\SmitRy00,CB,22,8,North Carolina Central,,5-11,189,4.47,36.0,18,122,6.88,4.09,Tampa Bay Buccaneers / 4th / 108th pick / 2016
+173,2016,Leshaun Sims\SimsLe00,CB,22,8,Southern Utah,,6-0,203,4.53,37.0,11,120,7.08,4.19,Tennessee Titans / 5th / 157th pick / 2016
+174,2016,Kevon Seymour\SeymKe00,CB,22,0,USC,College Stats,5-11,186,4.39,35.0,12,124,,4.18,Buffalo Bills / 6th / 218th pick / 2016
+175,2016,Zack Sanchez\SancZa00,CB,22,0,Oklahoma,College Stats,5-11,185,4.50,35.5,19,116,,,Carolina Panthers / 5th / 141st pick / 2016
+176,2016,Keivarae Russell\RussKe00,CB,22,0,Notre Dame,College Stats,5-11,192,4.49,,17,,,,Kansas City Chiefs / 3rd / 74th pick / 2016
+177,2016,Rashard Robinson\RobiRa00,CB,20,8,Louisiana St,,6-1,171,4.49,35.5,,121,,,San Francisco 49ers / 4th / 133rd pick / 2016
+178,2016,Will Redmond\RedmWi00,CB,22,0,Mississippi State,College Stats,5-11,182,4.45,,,,,,San Francisco 49ers / 3rd / 68th pick / 2016
+179,2016,Jalen Ramsey\RamsJa00,CB,21,71,Florida State,College Stats,6-1,209,4.41,41.5,14,135,6.94,4.18,Jacksonville Jaguars / 1st / 5th pick / 2016
+180,2016,Kevin Peterson\PeteKe01,CB,21,0,Oklahoma State,College Stats,5-10,181,4.58,35.5,14,121,6.94,4.31,
+181,2016,Eric Murray\MurrEr00,CB,22,11,Minnesota,College Stats,5-11,199,4.49,39.5,15,124,7.08,4.05,Kansas City Chiefs / 4th / 106th pick / 2016
+182,2016,Harlan Miller\MillHa00,CB,21,0,SE Louisiana,,6-0,182,4.65,35.5,6,118,7.44,4.43,Arizona Cardinals / 6th / 205th pick / 2016
+183,2016,Jonathan Jones\JoneJo03,CB,22,12,Auburn,College Stats,5-9,186,4.33,36.0,19,123,7.25,4.25,
+184,2016,Cyrus Jones\JoneCy00,CB,22,1,Alabama,College Stats,5-10,197,4.49,33.0,10,116,6.71,4.21,New England Patriots / 2nd / 60th pick / 2016
+185,2016,William Jackson III\JackWi02,CB,23,17,Houston,College Stats,6-0,189,4.37,,10,116,,,Cincinnati Bengals / 1st / 24th pick / 2016
+186,2016,Xavien Howard\HowaXa00,CB,22,48,Baylor,College Stats,6-0,201,4.58,33.0,11,122,7.18,4.15,Miami Dolphins / 2nd / 38th pick / 2016
+187,2016,De'Vante Harris\HarrDe04,CB,22,0,Texas A&M,College Stats,5-11,176,4.56,38.5,,124,6.82,4.06,
+188,2016,Vernon Hargreaves III\HargVe00,CB,20,22,Florida,College Stats,5-10,204,4.50,39.0,15,130,,3.98,Tampa Bay Buccaneers / 1st / 11th pick / 2016
+189,2016,Kendall Fuller\FullKe00,CB,21,28,Virginia Tech,College Stats,5-11,187,4.48,,15,,,,Washington Redskins / 3rd / 84th pick / 2016
+190,2016,Deandre Elliott\ElliDe01,CB,23,0,Colorado State,College Stats,6-1,188,4.55,41.0,,125,6.93,3.94,
+191,2016,Sean Davis\DaviSe00,CB,22,22,Maryland,College Stats,6-1,201,4.46,37.5,21,126,6.64,3.97,Pittsburgh Steelers / 2nd / 58th pick / 2016
+192,2016,Ken Crawley\CrawKe01,CB,22,,Colorado,College Stats,6-0,187,4.43,36.5,,119,,,
+193,2016,Maurice Canady\CanaMa00,CB,21,2,Virginia,College Stats,6-1,193,4.49,38.0,16,124,7.03,4.09,Baltimore Ravens / 6th / 209th pick / 2016
+194,2016,Taveze Calhoun\CalhTa01,CB,23,0,Mississippi State,College Stats,6-0,192,4.58,33.5,14,,,,
+195,2016,Juston Burris\BurrJu00,CB,22,12,North Carolina State,College Stats,6-0,212,4.53,36.5,19,122,7.10,4.40,New York Jets / 4th / 118th pick / 2016
+196,2016,Artie Burns\BurnAr00,CB,20,20,Miami (FL),College Stats,6-0,193,4.46,31.5,,,,,Pittsburgh Steelers / 1st / 25th pick / 2016
+197,2016,Anthony Brown\BrowAn02,CB,22,24,Purdue,College Stats,5-11,192,4.33,35.0,19,115,7.03,4.19,Dallas Cowboys / 6th / 189th pick / 2016
+198,2016,James Bradberry\BradJa00,CB,22,39,Samford,,6-1,211,4.50,36.0,16,124,6.91,4.21,Carolina Panthers / 2nd / 62nd pick / 2016
+199,2016,Briean Boddy-Calhoun\BoddBr00,CB,,,Minnesota,College Stats,5-9,193,4.47,35.0,10,123,7.16,4.22,
+200,2016,Eli Apple\ApplEl00,CB,20,22,Ohio State,College Stats,6-1,199,4.40,,13,,,,New York Giants / 1st / 10th pick / 2016
+1,2016,Tavon Young\YounTa01,CB,21,7,Temple,College Stats,5-9,183,4.46,34.5,9,118,6.80,3.93,Baltimore Ravens / 4th / 104th pick / 2016
+2,2016,Daryl Worley\WorlDa00,CB,21,23,West Virginia,College Stats,6-1,204,4.64,35.5,14,123,6.98,4.15,Carolina Panthers / 3rd / 77th pick / 2016
+3,2016,Brandon Williams\WillBr07,CB,23,0,Texas A&M,College Stats,5-11,197,4.37,30.5,18,118,6.85,4.19,Arizona Cardinals / 3rd / 92nd pick / 2016
+4,2016,D.J. White\WhitD.00,CB,22,0,Georgia Tech,College Stats,5-11,193,4.49,33.0,17,132,7.18,4.33,Kansas City Chiefs / 6th / 178th pick / 2016
+5,2016,Ryan Smith\SmitRy00,CB,22,8,North Carolina Central,,5-11,189,4.47,36.0,18,122,6.88,4.09,Tampa Bay Buccaneers / 4th / 108th pick / 2016
+6,2016,Leshaun Sims\SimsLe00,CB,22,8,Southern Utah,,6-0,203,4.53,37.0,11,120,7.08,4.19,Tennessee Titans / 5th / 157th pick / 2016
+7,2016,Kevon Seymour\SeymKe00,CB,22,0,USC,College Stats,5-11,186,4.39,35.0,12,124,,4.18,Buffalo Bills / 6th / 218th pick / 2016
+8,2016,Zack Sanchez\SancZa00,CB,22,0,Oklahoma,College Stats,5-11,185,4.50,35.5,19,116,,,Carolina Panthers / 5th / 141st pick / 2016
+9,2016,Keivarae Russell\RussKe00,CB,22,0,Notre Dame,College Stats,5-11,192,4.49,,17,,,,Kansas City Chiefs / 3rd / 74th pick / 2016
+10,2016,Rashard Robinson\RobiRa00,CB,20,8,Louisiana St,,6-1,171,4.49,35.5,,121,,,San Francisco 49ers / 4th / 133rd pick / 2016
+11,2016,Will Redmond\RedmWi00,CB,22,0,Mississippi State,College Stats,5-11,182,4.45,,,,,,San Francisco 49ers / 3rd / 68th pick / 2016
+12,2016,Jalen Ramsey\RamsJa00,CB,21,71,Florida State,College Stats,6-1,209,4.41,41.5,14,135,6.94,4.18,Jacksonville Jaguars / 1st / 5th pick / 2016
+13,2016,Kevin Peterson\PeteKe01,CB,21,0,Oklahoma State,College Stats,5-10,181,4.58,35.5,14,121,6.94,4.31,
+14,2016,Eric Murray\MurrEr00,CB,22,11,Minnesota,College Stats,5-11,199,4.49,39.5,15,124,7.08,4.05,Kansas City Chiefs / 4th / 106th pick / 2016
+15,2016,Harlan Miller\MillHa00,CB,21,0,SE Louisiana,,6-0,182,4.65,35.5,6,118,7.44,4.43,Arizona Cardinals / 6th / 205th pick / 2016
+16,2016,Jonathan Jones\JoneJo03,CB,22,12,Auburn,College Stats,5-9,186,4.33,36.0,19,123,7.25,4.25,
+17,2016,Cyrus Jones\JoneCy00,CB,22,1,Alabama,College Stats,5-10,197,4.49,33.0,10,116,6.71,4.21,New England Patriots / 2nd / 60th pick / 2016
+18,2016,William Jackson III\JackWi02,CB,23,17,Houston,College Stats,6-0,189,4.37,,10,116,,,Cincinnati Bengals / 1st / 24th pick / 2016
+19,2016,Xavien Howard\HowaXa00,CB,22,48,Baylor,College Stats,6-0,201,4.58,33.0,11,122,7.18,4.15,Miami Dolphins / 2nd / 38th pick / 2016
+20,2016,De'Vante Harris\HarrDe04,CB,22,0,Texas A&M,College Stats,5-11,176,4.56,38.5,,124,6.82,4.06,
+21,2016,Vernon Hargreaves III\HargVe00,CB,20,22,Florida,College Stats,5-10,204,4.50,39.0,15,130,,3.98,Tampa Bay Buccaneers / 1st / 11th pick / 2016
+22,2016,Kendall Fuller\FullKe00,CB,21,28,Virginia Tech,College Stats,5-11,187,4.48,,15,,,,Washington Redskins / 3rd / 84th pick / 2016
+23,2016,Deandre Elliott\ElliDe01,CB,23,0,Colorado State,College Stats,6-1,188,4.55,41.0,,125,6.93,3.94,
+24,2016,Sean Davis\DaviSe00,CB,22,22,Maryland,College Stats,6-1,201,4.46,37.5,21,126,6.64,3.97,Pittsburgh Steelers / 2nd / 58th pick / 2016
+25,2016,Ken Crawley\CrawKe01,CB,22,,Colorado,College Stats,6-0,187,4.43,36.5,,119,,,
+26,2016,Maurice Canady\CanaMa00,CB,21,2,Virginia,College Stats,6-1,193,4.49,38.0,16,124,7.03,4.09,Baltimore Ravens / 6th / 209th pick / 2016
+27,2016,Taveze Calhoun\CalhTa01,CB,23,0,Mississippi State,College Stats,6-0,192,4.58,33.5,14,,,,
+28,2016,Juston Burris\BurrJu00,CB,22,12,North Carolina State,College Stats,6-0,212,4.53,36.5,19,122,7.10,4.40,New York Jets / 4th / 118th pick / 2016
+29,2016,Artie Burns\BurnAr00,CB,20,20,Miami (FL),College Stats,6-0,193,4.46,31.5,,,,,Pittsburgh Steelers / 1st / 25th pick / 2016
+30,2016,Anthony Brown\BrowAn02,CB,22,24,Purdue,College Stats,5-11,192,4.33,35.0,19,115,7.03,4.19,Dallas Cowboys / 6th / 189th pick / 2016
+31,2016,James Bradberry\BradJa00,CB,22,39,Samford,,6-1,211,4.50,36.0,16,124,6.91,4.21,Carolina Panthers / 2nd / 62nd pick / 2016
+32,2016,Briean Boddy-Calhoun\BoddBr00,CB,,,Minnesota,College Stats,5-9,193,4.47,35.0,10,123,7.16,4.22,
+33,2016,Eli Apple\ApplEl00,CB,20,22,Ohio State,College Stats,6-1,199,4.40,,13,,,,New York Giants / 1st / 10th pick / 2016
+34,2016,Mackensie Alexander\AlexMa01,CB,22,11,Clemson,College Stats,5-10,190,4.43,,11,,,,Minnesota Vikings / 2nd / 54th pick / 2016
+35,2016,Deiondre Hall,CB,,,Northern Iowa,,6-2,199,4.68,37.0,,127,7.07,4.06,
+36,2016,Jimmy Pruitt,CB,,,San Jose State,,6-0,198,4.73,32.0,19,117,,,
+37,2016,Cleveland Wallace III,CB,,,San Jose State,,5-11,188,4.68,35.5,,123,,,
+38,2015,Julian Wilson\WilsJu00,CB,23,,Oklahoma,College Stats,6-2,205,4.58,36.0,,125,6.94,4.22,
+39,2015,P.J. Williams\WillP.00,CB,21,11,Florida State,College Stats,6-0,194,4.57,40.0,12,132,7.08,4.28,New Orleans Saints / 3rd / 78th pick / 2015
+40,2015,Kevin White\WhitKe01,CB,,,TCU,College Stats,5-9,183,4.63,35.5,18,121,,,
+41,2015,Trae Waynes\WaynTr00,CB,22,22,Michigan State,College Stats,6-0,186,4.31,38.0,19,122,7.06,4.39,Minnesota Vikings / 1st / 11th pick / 2015
+42,2015,Damian Swann\SwanDa02,CB,22,0,Georgia,College Stats,6-0,189,4.50,33.0,,118,,,New Orleans Saints / 5th / 167th pick / 2015
+43,2015,Tye Smith\SmitTy01,CB,21,0,Towson,,6-0,195,4.60,36.5,15,124,6.97,3.96,Seattle Seahawks / 5th / 170th pick / 2015
+44,2015,D'Joun Smith\SmitDJ00,CB,22,0,Florida Atlantic,College Stats,5-10,187,4.37,36.0,18,124,6.96,4.26,Indianapolis Colts / 3rd / 65th pick / 2015
+45,2015,JaCorey Shepherd\ShepJa00,CB,21,0,Kansas,College Stats,5-11,199,4.62,,14,,,,Philadelphia Eagles / 6th / 191st pick / 2015
+46,2015,Josh Shaw\ShawJo00,CB,22,6,USC,College Stats,6-0,201,4.44,37.5,26,130,7.01,4.12,Cincinnati Bengals / 4th / 120th pick / 2015
+47,2015,Eric Rowe\RoweEr00,CB,22,22,Utah,College Stats,6-1,205,4.45,39.0,19,125,6.70,3.97,Philadelphia Eagles / 2nd / 47th pick / 2015
+48,2015,Quinten Rollins\RollQu00,CB,22,4,Miami (OH),College Stats,5-11,195,4.57,36.5,14,122,7.10,4.28,Green Bay Packers / 2nd / 62nd pick / 2015
+49,2015,Marcus Peters\PeteMa00,CB,22,79,Washington,College Stats,6-0,197,4.53,37.5,17,121,7.08,4.08,Kansas City Chiefs / 1st / 18th pick / 2015
+50,2015,Garry Peters\PeteGa00,CB,,,Clemson,College Stats,6-0,191,4.61,32.5,7,119,6.80,4.00,
+51,2015,Steven Nelson\NelsSt01,CB,22,30,Oregon State,College Stats,5-10,197,4.49,34.5,19,115,6.88,4.07,Kansas City Chiefs / 3rd / 98th pick / 2015
+52,2015,Bobby McCain\McCaBo01,CB,21,24,Memphis,College Stats,5-9,195,4.51,36.0,17,130,6.80,3.82,Miami Dolphins / 5th / 145th pick / 2015
+53,2015,Nick Marshall\MarsNi00,CB,22,0,Auburn,College Stats,6-1,207,4.54,37.5,12,124,6.96,4.15,
+54,2015,Craig Mager\MageCr00,CB,22,4,Texas State,College Stats,5-11,201,4.44,38.0,17,130,6.83,4.07,San Diego Chargers / 3rd / 83rd pick / 2015
+55,2015,Byron Jones\JoneBy00,CB,22,47,Connecticut,College Stats,6-1,199,4.43,44.5,,147,6.78,3.94,Dallas Cowboys / 1st / 27th pick / 2015
+56,2015,Kevin Johnson\JohnKe04,CB,22,11,Wake Forest,College Stats,6-0,188,4.52,41.5,,130,6.79,3.89,Houston Texans / 1st / 16th pick / 2015
+57,2015,Troy Hill\HillTr01,CB,23,20,Oregon,College Stats,5-10,180,4.55,32.5,,120,6.81,4.21,
+58,2015,Doran Grant\GranDo00,CB,22,0,Ohio State,College Stats,5-10,200,4.44,33.0,21,116,,4.33,Pittsburgh Steelers / 4th / 121st pick / 2015
+59,2015,Senquez Golson\GolsSe00,CB,21,,Mississippi,College Stats,5-9,176,4.46,33.5,15,120,6.81,4.20,Pittsburgh Steelers / 2nd / 56th pick / 2015
+60,2015,Jacoby Glenn\GlenJa01,CB,21,0,Central Florida,College Stats,6-0,179,4.64,34.0,,123,6.97,4.26,
+61,2015,Charles Gaines\GainCh00,CB,22,0,Louisville,College Stats,5-10,180,4.44,34.5,,123,7.07,4.20,Cleveland Browns / 6th / 189th pick / 2015
+62,2015,Ifo Ekpre-Olomu\EkprIf00,CB,21,,Oregon,College Stats,5-9,192,4.52,,,,,,Cleveland Browns / 7th / 241st pick / 2015
+63,2015,Lorenzo Doss\DossLo00,CB,20,0,Tulane,College Stats,5-10,182,4.50,33.5,9,115,7.20,4.26,Denver Broncos / 5th / 164th pick / 2015
+64,2015,Quandre Diggs\DiggQu00,CB,22,32,Texas,College Stats,5-9,196,4.56,35.5,17,113,7.22,4.15,Detroit Lions / 6th / 200th pick / 2015
+65,2015,Ronald Darby\DarbRo00,CB,21,37,Florida State,College Stats,5-11,193,4.38,41.5,12,129,6.94,4.14,Buffalo Bills / 2nd / 50th pick / 2015
+66,2015,Justin Cox\CoxxJu00,CB,,,Mississippi State,College Stats,6-1,191,4.36,38.0,15,129,7.05,4.07,
+67,2015,Jalen Collins\CollJa02,CB,21,3,LSU,College Stats,6-1,203,4.48,36.0,,124,6.77,4.27,Atlanta Falcons / 2nd / 42nd pick / 2015
+68,2015,Justin Coleman\ColeJu01,CB,21,16,Tennessee,College Stats,5-11,185,4.53,37.5,20,124,6.61,3.98,
+69,2015,Donald Celiscar\CeliDo00,CB,,,West. Michigan,College Stats,5-11,194,4.62,,,120,,,
+70,2015,Alex Carter\CartAl01,CB,20,0,Stanford,College Stats,6-0,196,4.51,40.0,17,121,7.05,4.07,Detroit Lions / 3rd / 80th pick / 2015
+71,2014,Lavelle Westbrooks\WestLa00,CB,22,,Georgia Southern,,5-11,186,4.63,36.0,15,121,6.98,4.27,Cincinnati Bengals / 7th / 252nd pick / 2014
+72,2014,Jaylen Watkins\WatkJa01,CB,22,2,Florida,College Stats,5-11,194,4.41,,22,,,,Philadelphia Eagles / 4th / 101st pick / 2014
+73,2014,Jason Verrett\VerrJa00,CB,22,19,TCU,College Stats,5-9,189,4.38,39.0,,128,6.69,4.00,San Diego Chargers / 1st / 25th pick / 2014
+74,2014,Jemea Thomas\ThomJe03,CB,23,0,Georgia Tech,College Stats,5-9,192,4.52,37.0,19,125,,,New England Patriots / 6th / 206th pick / 2014
+75,2014,Bradley Roby\RobyBr00,CB,21,18,Ohio State,College Stats,5-11,194,4.39,38.5,17,124,,4.04,Denver Broncos / 1st / 31st pick / 2014
+76,2014,Marcus Roberson\RobeMa00,CB,21,3,Florida,College Stats,6-0,191,4.61,37.5,8,120,6.84,4.08,
+77,2014,Rashaad Reynolds\ReynRa00,CB,23,0,Oregon State,College Stats,5-10,189,4.51,37.5,20,123,6.72,4.00,
+78,2014,Keith Reaser\ReasKe00,CB,22,0,Florida Atlantic,College Stats,5-11,189,4.43,,22,,,,San Francisco 49ers / 5th / 170th pick / 2014
+79,2014,Loucheiz Purifoy\PuriLo00,CB,,,Florida,College Stats,5-11,190,4.61,35.5,6,120,,,
+80,2014,Jabari Price\PricJa00,CB,20,0,North Carolina,College Stats,5-11,200,4.45,,16,,7.04,4.30,Minnesota Vikings / 7th / 225th pick / 2014
+81,2014,Terrance Mitchell\MitcTe00,CB,21,16,Oregon,College Stats,5-11,192,4.63,34.0,,117,6.57,4.00,Dallas Cowboys / 7th / 254th pick / 2014
+82,2014,Keith McGill\McGiKe00,CB,24,2,Utah,College Stats,6-3,211,4.51,39.0,,129,7.29,4.18,Oakland Raiders / 4th / 116th pick / 2014
+83,2014,Dexter McDougle\McDoDe00,CB,22,0,Maryland,College Stats,5-10,196,4.47,,,,,,New York Jets / 3rd / 80th pick / 2014
+84,2014,Nevin Lawson\LawsNe00,CB,22,33,Utah State,College Stats,5-9,190,4.48,33.0,16,120,7.12,4.40,Detroit Lions / 4th / 133rd pick / 2014
+85,2014,Lamarcus Joyner\JoynLa00,CB,23,32,Florida State,College Stats,5-8,184,4.55,37.5,14,124,7.26,4.40,St. Louis Rams / 2nd / 41st pick / 2014
+86,2014,Dontae Johnson\JohnDo02,CB,22,8,North Carolina State,College Stats,6-2,200,4.41,38.5,12,124,6.82,4.24,San Francisco 49ers / 4th / 129th pick / 2014
+87,2014,Stanley Jean-Baptiste\JeanSt00,CB,23,0,Nebraska,College Stats,6-3,218,4.61,41.5,13,128,,4.33,New Orleans Saints / 2nd / 58th pick / 2014
+88,2014,Kendall James\JameKe00,CB,22,0,Maine,,5-10,180,4.44,39.0,9,,6.81,4.19,Minnesota Vikings / 6th / 184th pick / 2014
+89,2014,Bennett Jackson\JackBe00,CB,22,0,Notre Dame,College Stats,6-0,195,4.51,38.0,13,128,6.75,4.00,New York Giants / 6th / 187th pick / 2014
+90,2014,Victor Hampton\HampVi00,CB,21,0,South Carolina,College Stats,5-9,197,4.69,33.5,20,118,7.01,4.20,
+91,2014,Andre Hal\HalxAn00,CB,21,27,Vanderbilt,College Stats,5-10,188,4.50,35.5,15,119,7.14,4.27,Houston Texans / 7th / 216th pick / 2014
+92,2014,Demetri Goodson\GoodDe00,CB,24,0,Baylor,College Stats,5-11,194,4.52,37.0,11,123,6.80,4.34,Green Bay Packers / 6th / 197th pick / 2014
+93,2014,Justin Gilbert\GilbJu00,CB,22,0,Oklahoma State,College Stats,6-0,202,4.37,35.5,20,126,6.92,,Cleveland Browns / 1st / 8th pick / 2014
+94,2014,Phillip Gaines\GainPh00,CB,22,8,Rice,College Stats,6-0,193,4.38,36.5,11,122,6.62,4.04,Kansas City Chiefs / 3rd / 87th pick / 2014
+95,2014,E.J. Gaines\GainE.00,CB,22,24,Missouri,College Stats,5-10,190,4.44,,15,,,,St. Louis Rams / 6th / 188th pick / 2014
+96,2014,Kyle Fuller\FullKy00,CB,22,54,Virginia Tech,College Stats,6-0,190,4.49,38.5,12,128,6.90,4.19,Chicago Bears / 1st / 14th pick / 2014
+97,2014,Antone Exum\ExumAn00,CB,23,4,Virginia Tech,College Stats,6-0,213,4.59,35.0,17,117,7.05,4.13,Minnesota Vikings / 6th / 182nd pick / 2014
+98,2014,Brandon Dixon\DixoBr00,CB,23,0,Northwest Missouri State,,5-11,203,4.41,32.5,17,117,7.15,4.27,New York Jets / 6th / 195th pick / 2014
+99,2014,Pierre Desir\DesiPi00,CB,23,29,Lindenwood,,6-1,198,4.59,35.0,11,133,6.86,4.30,Cleveland Browns / 4th / 127th pick / 2014
+100,2014,Darqueze Dennard\DennDa00,CB,22,8,Michigan State,College Stats,5-11,199,4.52,,15,,,,Cincinnati Bengals / 1st / 24th pick / 2014
+101,2014,Chris Davis\DaviCh05,CB,23,0,Auburn,College Stats,5-10,202,4.54,,15,,,,
+102,2014,Aaron Colvin\ColvAa00,CB,22,14,Oklahoma,College Stats,5-11,177,4.51,,,,,,Jacksonville Jaguars / 4th / 114th pick / 2014
+103,2014,Ross Cockrell\CockRo00,CB,22,22,Duke,College Stats,6-0,191,4.56,36.5,10,122,7.28,4.32,Buffalo Bills / 4th / 109th pick / 2014
+104,2014,Travis Carrie\CarrTr00,CB,23,20,Ohio,College Stats,6-0,206,4.49,,17,,,,Oakland Raiders / 7th / 219th pick / 2014
+105,2014,Bashaud Breeland\BreeBa00,CB,22,45,Clemson,College Stats,5-11,197,4.62,34.5,11,123,7.04,4.33,Washington Redskins / 4th / 102nd pick / 2014
+106,2014,Bene' Benwikere\BenwBe00,CB,22,7,San Jose State,College Stats,5-11,195,4.59,40.5,10,122,6.94,4.38,Carolina Panthers / 5th / 148th pick / 2014
+107,2014,Deion Belue\BeluDe00,CB,22,0,Alabama,College Stats,5-11,182,4.48,,11,,,,
+108,2014,Ricardo Allen\AlleRi00,CB,22,31,Purdue,College Stats,5-9,187,4.61,35.5,13,117,,4.15,Atlanta Falcons / 5th / 147th pick / 2014
+109,2014,Todd Washington,CB,,,SE Louisiana,,5-11,196,4.57,,13,,,,
+110,2013,Blidi Wreh-Wilson\WrehBl00,CB,23,5,Connecticut,College Stats,6-1,195,4.53,36.0,14,128,6.97,4.12,Tennessee Titans / 3rd / 70th pick / 2013
+111,2013,Khalid Wooten\WootKh00,CB,23,0,Nevada,College Stats,5-11,210,4.53,33.5,17,117,6.95,4.18,Tennessee Titans / 6th / 202nd pick / 2013
+112,2013,Steve Williams\WillSt02,CB,22,0,California,College Stats,5-9,181,4.42,40.5,12,128,6.89,4.10,San Diego Chargers / 5th / 145th pick / 2013
+113,2013,Kayvon Webster\WebsKa00,CB,22,5,South Florida,College Stats,5-10,195,4.41,35.0,14,125,,,Denver Broncos / 3rd / 90th pick / 2013
+114,2013,B.W. Webb\WebbBW00,CB,22,15,William & Mary,,5-10,184,4.51,40.5,14,132,6.82,3.84,Dallas Cowboys / 4th / 114th pick / 2013
+115,2013,Desmond Trufant\TrufDe00,CB,22,52,Washington,College Stats,6-0,190,4.38,37.5,16,125,,3.85,Atlanta Falcons / 1st / 22nd pick / 2013
+116,2013,Jamar Taylor\TaylJa01,CB,22,16,Boise State,College Stats,5-11,192,4.39,35.0,22,127,6.82,4.06,Miami Dolphins / 2nd / 54th pick / 2013
+117,2013,Rod Sweeting\SweeRo01,CB,22,0,Georgia Tech,College Stats,5-11,189,4.42,37.0,11,124,,,
+118,2013,Darius Slay\SlayDa00,CB,22,72,Mississippi State,College Stats,6-0,192,4.36,35.5,14,124,6.90,4.21,Detroit Lions / 2nd / 36th pick / 2013
+119,2013,Tharold Simon\SimoTh00,CB,22,3,LSU,College Stats,6-2,202,4.51,34.0,9,128,,,Seattle Seahawks / 5th / 138th pick / 2013
+120,2013,Logan Ryan\RyanLo00,CB,22,53,Rutgers,College Stats,5-11,191,4.56,32.5,14,116,6.69,4.06,New England Patriots / 3rd / 83rd pick / 2013
+121,2013,Nickell Robey\RobeNi00,CB,21,18,USC,College Stats,5-7,169,4.53,37.5,10,127,6.74,4.09,
+122,2013,Xavier Rhodes\RhodXa00,CB,22,63,Florida State,College Stats,6-1,210,4.43,40.5,14,132,,,Minnesota Vikings / 1st / 25th pick / 2013
+123,2013,Jordan Poyer\PoyeJo00,CB,21,39,Oregon State,College Stats,6-0,191,4.54,30.5,8,118,6.87,4.18,Philadelphia Eagles / 7th / 218th pick / 2013
+124,2013,Dee Milliner\MillDe00,CB,21,12,Alabama,College Stats,6-0,201,4.37,36.0,,122,6.95,4.32,New York Jets / 1st / 9th pick / 2013
+125,2013,Brandon McGee\McGeBr00,CB,22,0,Miami (FL),College Stats,5-11,193,4.40,33.5,14,119,6.71,4.18,St. Louis Rams / 5th / 149th pick / 2013
+126,2013,Leon McFadden\McFaLe00,CB,22,0,San Diego State,College Stats,5-10,193,4.54,34.5,10,119,6.81,4.27,Cleveland Browns / 3rd / 68th pick / 2013
+127,2013,Demetrius McCray\McCrDe00,CB,21,6,Appalachian State,,6-1,187,4.54,36.0,4,126,7.17,4.32,Jacksonville Jaguars / 7th / 210th pick / 2013
+128,2013,Tyrann Mathieu\MathTy00,CB,20,67,LSU,,5-9,186,4.50,34.0,4,117,6.87,4.14,Arizona Cardinals / 3rd / 69th pick / 2013
+129,2013,Josh Johnson\JohnJo07,CB,23,0,Purdue,College Stats,5-9,199,4.65,35.0,16,114,6.99,4.25,
+130,2013,Micah Hyde\HydeMi00,CB,22,62,Iowa,College Stats,6-0,197,4.56,33.0,12,121,6.78,4.20,Green Bay Packers / 5th / 159th pick / 2013
+131,2013,Aaron Hester\HestAa00,CB,23,0,UCLA,College Stats,6-2,198,4.62,29.0,,112,7.26,4.33,
+132,2013,D.J. Hayden\HaydDJ00,CB,22,18,Houston,College Stats,5-11,191,4.40,,,,,,Oakland Raiders / 1st / 12th pick / 2013
+133,2013,Terry Hawthorne\HawtTe00,CB,23,,Illinois,College Stats,6-0,195,4.44,35.5,13,116,,,Pittsburgh Steelers / 5th / 150th pick / 2013
+134,2013,Dwayne Gratz\GratDw00,CB,22,12,Connecticut,College Stats,5-11,201,4.47,38.0,22,125,6.70,4.15,Jacksonville Jaguars / 3rd / 64th pick / 2013
+135,2013,Mike Edwards\EdwaMi01,CB,16,3,Hawaii,College Stats,5-9,189,4.56,36.0,14,124,6.94,4.18,Tampa Bay Buccaneers / 3rd / 99th pick / 2019
+136,2013,Will Davis\DaviWi02,CB,22,0,Utah State,College Stats,5-11,186,4.51,35.5,16,127,6.52,4.02,Miami Dolphins / 3rd / 93rd pick / 2013
+137,2013,Sanders Commings\CommSa00,CB,22,0,Georgia,College Stats,6-0,216,4.41,34.5,,117,7.10,4.30,Kansas City Chiefs / 5th / 134th pick / 2013
+138,2013,Adrian Bushell\BushAd00,CB,,,Louisville,College Stats,5-9,186,4.58,33.0,17,116,6.92,4.25,
+139,2013,Johnthan Banks\BankJo00,CB,23,14,Mississippi State,College Stats,6-2,185,4.61,34.0,10,125,6.97,4.27,Tampa Bay Buccaneers / 2nd / 43rd pick / 2013
+140,2013,Marc Anthony\AnthMa00,CB,23,,California,College Stats,5-11,196,4.63,35.0,12,118,6.74,4.07,Baltimore Ravens / 7th / 247th pick / 2013
+141,2013,David Amerson\AmerDa00,CB,21,29,North Carolina State,College Stats,6-1,205,4.44,35.5,15,127,,,Washington Redskins / 2nd / 51st pick / 2013
+142,2013,Robert Alford\AlfoRo00,CB,24,34,SE Louisiana,,5-10,188,4.39,40.0,17,132,6.89,4.23,Atlanta Falcons / 2nd / 60th pick / 2013
+143,2013,Johnny Adams\AdamJo02,CB,23,0,Michigan State,College Stats,5-10,185,4.48,,16,,,,
+144,2013,Dax Swanson,CB,,,SMU,,5-10,186,4.56,33.0,15,122,,,
+145,2013,Greg Reid,CB,,,Florida State,,5-8,190,4.46,,10,,,,
+146,2012,Trevin Wade\WadeTr00,CB,22,0,Arizona,College Stats,5-10,192,4.52,34.5,18,116,6.87,4.00,Cleveland Browns / 7th / 245th pick / 2012
+147,2012,Ryan Steed\SteeRy00,CB,21,0,Furman,,5-10,195,4.64,34.0,12,121,6.94,4.22,
+148,2012,Coty Sensabaugh\SensCo00,CB,23,17,Clemson,College Stats,5-11,189,4.33,37.0,15,122,6.60,4.06,Tennessee Titans / 4th / 115th pick / 2012
+149,2012,Josh Robinson\RobiJo01,CB,21,16,Central Florida,College Stats,5-10,199,4.29,38.5,17,133,6.55,3.97,Minnesota Vikings / 3rd / 66th pick / 2012
+150,2012,Shaun Prater\PratSh00,CB,22,0,Iowa,College Stats,5-10,190,4.50,,14,,,,Cincinnati Bengals / 5th / 156th pick / 2012
+151,2012,Chaz Powell\PoweCh00,CB,24,0,Penn State,College Stats,6-0,203,4.42,33.0,17,121,6.84,4.16,
+152,2012,Micah Pellerin\PellMi00,CB,23,0,Kansas State,,6-0,194,4.52,33.0,14,116,,,
+153,2012,Josh Norman\NormJo01,CB,24,57,Coastal Carolina,,6-0,197,4.61,33.0,14,124,7.09,4.23,Carolina Panthers / 5th / 143rd pick / 2012
+154,2012,Chase Minnifield\MinnCh00,CB,22,0,Virginia,College Stats,5-10,183,4.63,,7,,,,
+155,2012,DeQuan Menzie\MenzDe00,CB,22,0,Alabama,College Stats,5-11,202,4.65,33.0,,116,,,Kansas City Chiefs / 5th / 146th pick / 2012
+156,2012,Dre Kirkpatrick\KirkDr00,CB,22,40,Alabama,College Stats,6-2,186,4.50,35.0,,120,,,Cincinnati Bengals / 1st / 17th pick / 2012
+157,2012,Trumaine Johnson\JohnTr05,CB,22,52,Montana,,6-2,204,4.50,35.5,19,122,7.20,4.15,St. Louis Rams / 3rd / 65th pick / 2012
+158,2012,Leonard Johnson\JohnLe03,CB,21,13,Iowa State,College Stats,5-10,196,4.62,32.0,15,120,6.96,4.15,
+159,2012,Janoris Jenkins\JenkJa03,CB,23,80,Florida,College Stats,5-10,193,4.41,33.5,,121,6.95,4.13,St. Louis Rams / 2nd / 39th pick / 2012
+160,2012,Asa Jackson\JackAs00,CB,22,3,Cal Poly,,5-10,191,4.48,34.5,19,118,6.97,4.03,Baltimore Ravens / 5th / 169th pick / 2012
+161,2012,Jayron Hosley\HoslJa00,CB,21,6,Virginia Tech,College Stats,5-10,178,4.38,,11,,,,New York Giants / 3rd / 94th pick / 2012
+162,2012,Casey Hayward\HaywCa00,CB,22,60,Vanderbilt,College Stats,5-11,192,4.47,34.0,19,119,6.76,3.90,Green Bay Packers / 2nd / 62nd pick / 2012
+163,2012,Mike Harris\HarrMi00,CB,23,4,Florida State,College Stats,5-10,188,4.52,36.0,,117,6.81,4.07,Jacksonville Jaguars / 6th / 176th pick / 2012
+164,2012,Cliff Harris\HarrCl01,CB,22,,Oregon,College Stats,5-11,175,4.61,36.0,14,118,6.79,4.19,
+165,2012,Stephon Gilmore\GilmSt00,CB,21,93,South Carolina,College Stats,6-0,190,4.38,36.0,15,123,6.61,3.94,Buffalo Bills / 1st / 10th pick / 2012
+166,2012,Terrence Frederick\FredTe00,CB,22,0,Texas A&M,College Stats,5-10,187,4.44,35.0,16,121,6.59,4.03,Pittsburgh Steelers / 7th / 246th pick / 2012
+167,2012,Jamell Fleming\FlemJa00,CB,22,0,Oklahoma,College Stats,5-11,206,4.43,34.0,23,125,6.71,3.97,Arizona Cardinals / 3rd / 80th pick / 2012
+168,2012,Alfonzo Dennard\DennAl00,CB,22,8,Nebraska,College Stats,5-10,204,4.48,37.0,,121,,,New England Patriots / 7th / 224th pick / 2012
+169,2012,Morris Claiborne\ClaiMo00,CB,22,36,LSU,College Stats,5-11,188,4.50,34.5,,118,7.01,4.12,Dallas Cowboys / 1st / 6th pick / 2012
+170,2012,Ron Brooks\BrooRo01,CB,23,2,LSU,College Stats,5-10,190,4.37,38.0,12,120,,,Buffalo Bills / 4th / 124th pick / 2012
+171,2012,Brandon Boykin\BoykBr00,CB,21,0,Georgia,College Stats,5-9,182,4.44,,,,,,Philadelphia Eagles / 4th / 123rd pick / 2012
+172,2012,Omar Bolden\BoldOm00,CB,23,1,Arizona State,College Stats,5-10,202,4.51,,24,,,,Denver Broncos / 4th / 101st pick / 2012
+173,2012,Robert Blanton\BlanRo00,CB,22,7,Notre Dame,College Stats,6-1,208,4.66,34.0,12,116,6.71,3.97,Minnesota Vikings / 5th / 139th pick / 2012
+174,2012,Bill Bentley\BentBi00,CB,22,3,Colorado,,5-10,182,4.42,31.5,13,114,6.99,4.50,Detroit Lions / 3rd / 85th pick / 2012
+175,2012,Charles Brown,CB,,,North Carolina,College Stats,5-9,202,4.53,35.5,18,114,6.94,4.06,
+176,2012,Antonio Fenelus,CB,,,Wisconsin,College Stats,5-8,190,4.57,32.0,20,109,6.80,4.20,
+177,2012,Jeremy Jones,CB,,,Wayne State (MI),,5-9,197,4.56,31.5,20,116,7.14,4.18,
+178,2012,Coryell Judie,CB,,,Texas A&M,College Stats,6-0,194,4.45,37.0,,126,7.33,4.25,
+179,2012,D'Anton Lynn,CB,,,Penn State,College Stats,6-0,206,4.71,31.5,17,111,,,
+180,2012,DeAndre Presley,CB,,,Appalachian State,,5-10,185,4.53,32.0,8,114,7.19,4.28,
+181,2012,Antwuan Reed,CB,,,Pittsburgh,College Stats,5-10,188,4.58,36.5,14,124,,4.20,
+182,2011,Shareece Wright\WrigSh00,CB,23,30,USC,College Stats,5-11,185,4.41,34.5,16,113,,,San Diego Chargers / 3rd / 89th pick / 2011
+183,2011,Aaron Williams\WillAa00,CB,20,22,Texas,College Stats,6-0,204,4.55,37.5,18,127,6.72,4.07,Buffalo Bills / 2nd / 34th pick / 2011
+184,2011,Demarcus Van Dyke\VanDDe00,CB,22,0,Miami (FL),College Stats,6-1,176,4.28,33.5,5,121,6.97,4.09,Oakland Raiders / 3rd / 81st pick / 2011
+185,2011,Josh Thomas\ThomJo01,CB,21,4,Buffalo,College Stats,5-10,191,4.46,38.5,13,126,6.99,4.15,Dallas Cowboys / 5th / 143rd pick / 2011
+186,2011,Brandyn Thompson\ThomBr00,CB,21,0,Boise State,College Stats,5-9,189,4.50,33.5,13,114,6.66,4.12,Washington Redskins / 7th / 213th pick / 2011
+187,2011,Jimmy Smith\SmitJi03,CB,22,46,Colorado,College Stats,6-2,211,4.42,36.0,24,123,6.93,4.06,Baltimore Ravens / 1st / 27th pick / 2011
+188,2011,Buster Skrine\SkriBu00,CB,21,52,Tenn-Chattanooga,,5-9,186,4.37,37.0,20,122,6.44,3.90,Cleveland Browns / 5th / 137th pick / 2011
+189,2011,Richard Sherman\SherRi00,CB,22,126,Stanford,College Stats,6-3,195,4.54,38.0,16,125,6.82,4.33,Seattle Seahawks / 5th / 154th pick / 2011
+190,2011,Kevin Rutland\RutlKe00,CB,22,0,Missouri,College Stats,6-0,190,4.58,35.5,12,118,6.92,4.15,
+191,2011,Chris Rucker\RuckCh00,CB,22,0,Michigan State,,6-0,195,4.54,,10,,,,Indianapolis Colts / 6th / 188th pick / 2011
+192,2011,Justin Rogers\RogeJu00,CB,23,2,Richmond,,5-10,180,4.45,33.0,14,114,7.21,4.20,Buffalo Bills / 7th / 206th pick / 2011
+193,2011,Patrick Peterson\PetePa00,CB,20,129,LSU,College Stats,6-0,219,4.31,38.0,15,126,6.58,4.07,Arizona Cardinals / 1st / 5th pick / 2011
+194,2011,Johnny Patrick\PatrJo00,CB,22,0,Louisville,College Stats,5-11,191,4.59,32.0,13,110,,4.16,New Orleans Saints / 3rd / 88th pick / 2011
+195,2011,Byron Maxwell\MaxwBy00,CB,23,30,Clemson,College Stats,6-0,202,4.43,33.0,24,124,,,Seattle Seahawks / 6th / 173rd pick / 2011
+196,2011,Curtis Marsh\MarsCu01,CB,23,0,Utah State,College Stats,6-0,197,4.42,37.5,12,123,6.87,4.07,Philadelphia Eagles / 3rd / 90th pick / 2011
+197,2011,Davon House\HousDa00,CB,21,26,New Mexico State,College Stats,6-0,200,4.44,33.5,14,109,6.65,4.12,Green Bay Packers / 4th / 131st pick / 2011
+198,2011,Brandon Hogan\HogaBr00,CB,22,0,West Virginia,College Stats,5-10,192,4.43,,19,,,,Carolina Panthers / 4th / 98th pick / 2011
+199,2011,Brandon Harris\HarrBr00,CB,21,0,Miami (FL),College Stats,5-9,191,4.46,35.5,13,113,6.77,4.12,Houston Texans / 2nd / 60th pick / 2011
+200,2011,Marcus Gilchrist\GilcMa00,CB,22,49,Clemson,College Stats,5-10,195,4.45,38.5,26,119,6.81,4.12,San Diego Chargers / 2nd / 50th pick / 2011
+1,2010,Kyle Wilson\WilsKy99,CB,22,21,Boise State,College Stats,5-10,194,4.43,,25,,,,New York Jets / 1st / 29th pick / 2010
+2,2010,Jamar Wall\WallJa99,CB,22,0,Texas Tech,College Stats,5-10,204,4.52,,15,,,,Dallas Cowboys / 6th / 196th pick / 2010
+3,2010,Alterraun Verner\VernAl99,CB,21,43,UCLA,College Stats,5-10,189,4.52,32.0,11,116,6.70,4.12,Tennessee Titans / 4th / 104th pick / 2010
+4,2010,Walter Thurmond\ThurWa99,CB,22,8,Oregon,College Stats,5-11,189,4.53,,,,,,Seattle Seahawks / 4th / 111th pick / 2010
+5,2010,Syd'Quan Thompson\ThomSy99,CB,23,0,California,College Stats,5-9,186,4.75,33.0,,117,6.73,4.26,Denver Broncos / 7th / 225th pick / 2010
+6,2010,Kevin Thomas\ThomKe99,CB,23,3,USC,College Stats,6-0,192,4.41,34.5,19,126,6.82,4.18,Indianapolis Colts / 3rd / 94th pick / 2010
+7,2010,Earl Thomas\ThomEa99,CB,20,110,Texas,College Stats,5-10,208,4.43,,21,113,,,Seattle Seahawks / 1st / 14th pick / 2010
+8,2010,Amari Spievey\SpieAm99,CB,21,14,Iowa,College Stats,5-11,195,4.52,35.0,,116,,,Detroit Lions / 3rd / 66th pick / 2010
+9,2010,Devin Ross\RossDe01,CB,14,,Arizona,College Stats,5-10,183,4.64,40.0,16,119,7.07,,
+10,2010,Patrick Robinson\RobiPa99,CB,22,27,Florida State,College Stats,5-11,190,4.46,39.0,15,122,6.78,,New Orleans Saints / 1st / 32nd pick / 2010
+11,2010,David Pender\PendDa00,CB,22,0,Purdue,College Stats,6-0,180,4.37,39.0,8,124,,,
+12,2010,Akwasi Owusu-Ansah\OwusAk99,CB,21,0,Indiana (PA),,6-0,207,4.32,35.5,,120,6.84,4.32,Dallas Cowboys / 4th / 126th pick / 2010
+13,2010,Jerome Murphy\MurpJe99,CB,23,0,South Florida,College Stats,6-0,196,4.50,38.0,16,127,6.87,4.05,St. Louis Rams / 3rd / 65th pick / 2010
+14,2010,Joshua Moore\MoorJo99,CB,21,0,Kansas State,College Stats,5-11,188,4.50,36.5,2,122,6.74,4.07,Chicago Bears / 5th / 141st pick / 2010
+15,2010,Sherrick McManis\McMaSh99,CB,22,0,Northwestern,College Stats,5-11,195,4.48,,,,,,Houston Texans / 5th / 144th pick / 2010
+16,2010,Devin McCourty\McCoDe99,CB,22,101,Rutgers,College Stats,5-11,193,4.38,36.0,16,126,6.70,4.07,New England Patriots / 1st / 27th pick / 2010
+17,2010,Trevard Lindley\LindTr99,CB,24,0,Kentucky,College Stats,5-11,183,4.51,38.5,9,116,6.81,4.27,Philadelphia Eagles / 4th / 105th pick / 2010
+18,2010,A.J. Jefferson\JeffA.00,CB,21,7,Fresno State,College Stats,6-0,193,4.42,44.0,7,126,6.72,4.00,
+19,2010,Kareem Jackson\JackKa99,CB,21,79,Alabama,College Stats,5-10,196,4.40,37.5,13,118,6.92,4.14,Houston Texans / 1st / 20th pick / 2010
+20,2010,Brian Jackson\JackBr01,CB,22,0,Oklahoma,College Stats,6-1,202,4.65,35.5,20,120,6.76,4.22,
+21,2010,Chris Hawkins\HawkCh00,CB,23,0,LSU,College Stats,6-0,187,4.43,35.0,16,118,6.91,4.46,
+22,2010,Joe Haden\HadeJo99,CB,20,96,Florida,College Stats,5-11,193,4.52,35.0,18,125,6.94,4.34,Cleveland Browns / 1st / 7th pick / 2010
+23,2010,Marshay Green\GreeMa01,CB,24,0,Mississippi,College Stats,5-9,180,4.52,35.5,,124,6.66,4.11,
+24,2010,Brandon Ghee\GheeBr99,CB,22,0,Wake Forest,College Stats,6-0,192,4.37,37.0,15,127,6.75,4.07,Cincinnati Bengals / 3rd / 96th pick / 2010
+25,2010,Dominique Franks\FranDo99,CB,22,0,Oklahoma,College Stats,5-11,194,4.46,33.5,10,117,7.32,4.33,Atlanta Falcons / 5th / 135th pick / 2010
+26,2010,Perrish Cox\CoxxPe99,CB,23,25,Oklahoma State,College Stats,5-11,195,4.58,32.5,12,113,,,Denver Broncos / 5th / 137th pick / 2010
+27,2010,Chris Cook\CookCh99,CB,23,11,Virginia,College Stats,6-2,212,4.45,38.0,7,132,6.88,4.23,Minnesota Vikings / 2nd / 34th pick / 2010
+28,2010,Nolan Carroll\CarrNo00,CB,23,26,Maryland,College Stats,5-11,204,4.42,,,,,,Miami Dolphins / 5th / 145th pick / 2010
+29,2010,Crezdon Butler\ButlCr99,CB,22,0,Clemson,College Stats,6-0,191,4.43,39.5,17,121,7.08,4.23,Pittsburgh Steelers / 5th / 164th pick / 2010
+30,2010,Cornelius Brown\BrowCo00,CB,22,0,Texas-El Paso,College Stats,5-11,198,4.59,31.5,11,118,6.87,4.24,
+31,2010,Javier Arenas\ArenJa99,CB,22,4,Alabama,College Stats,5-9,197,4.60,,,112,,,Kansas City Chiefs / 2nd / 50th pick / 2010
+32,2010,Stephan Virgil,CB,,,Virginia Tech,College Stats,5-11,183,4.69,34.0,12,113,7.11,4.35,
+33,2010,Chris Chancellor,CB,,,Clemson,College Stats,5-9,177,4.49,34.0,14,115,6.85,4.07,
